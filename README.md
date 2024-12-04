@@ -52,3 +52,11 @@ install the dependencies:
 - Accessibility: Built on top of Radix UI primitives, ensuring the UI is accessible and keyboard-friendly.
 - Customization: Fully customizable using Tailwind CSS, allowing you to adapt styles to match your design system.
 - Dark Mode Support: Easily toggle between light and dark themes.
+
+## 2- time spent on the assignment.
+
+### from 8 to 10 hours
+
+### i can do this task with another state managment i prefer (React query)
+
+### i can do this task with Next js.
